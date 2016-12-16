@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## GitHub Pages へようこそ
 
-You can use the [editor on GitHub](https://github.com/hfu/123test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[GitHub のエディタ](https://github.com/hfu/123test/edit/master/README.md) を使うことで、Markdown ファイルでウェブサイトの内容の管理とプレビューができます。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+このレポジトリにコミットするたびに、GitHub は [Jekyll](https://jekyllrb.com/) を実行して、Markdown ファイルからサイトのページをリビルドします。
 
 ### Markdown
 
